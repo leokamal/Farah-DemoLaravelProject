@@ -44,7 +44,7 @@
                         </g>
                     </svg>
                 </div>
-                <h1>Salam FARAH</h1>
+                <h1>Salam Kamal</h1>
                 
               
 
